@@ -1,0 +1,22 @@
+C:\Users\User\Downloads\Gestión de Productos – CRUD\obj\Debug\Gestión de Productos – CRUD.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Gestión de Productos – CRUD\obj\Debug\Gestión_de_Productos___CRUD.Form1.resources
+C:\Users\User\Downloads\Gestión de Productos – CRUD\obj\Debug\Gestión_de_Productos___CRUD.Properties.Resources.resources
+C:\Users\User\Downloads\Gestión de Productos – CRUD\obj\Debug\Gestión de Productos – CRUD.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Gestión de Productos – CRUD\obj\Debug\Gestión de Productos – CRUD.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Gestión de Productos – CRUD\bin\Debug\Gestión de Productos – CRUD.exe.config
+C:\Users\User\Downloads\Gestión de Productos – CRUD\bin\Debug\Gestión de Productos – CRUD.exe
+C:\Users\User\Downloads\Gestión de Productos – CRUD\bin\Debug\Gestión de Productos – CRUD.pdb
+C:\Users\User\Downloads\Gestión de Productos – CRUD\obj\Debug\Gestión de Productos – CRUD.exe
+C:\Users\User\Downloads\Gestión de Productos – CRUD\obj\Debug\Gestión de Productos – CRUD.pdb
+C:\Users\User\Downloads\Gestión de Productos – CRUD\obj\Debug\Gestión de Productos – CRUD.exe.config
+C:\Users\lukas\source\repos\Gestión de Productos – CRUD\bin\Debug\Gestión de Productos – CRUD.exe.config
+C:\Users\lukas\source\repos\Gestión de Productos – CRUD\bin\Debug\Gestión de Productos – CRUD.exe
+C:\Users\lukas\source\repos\Gestión de Productos – CRUD\bin\Debug\Gestión de Productos – CRUD.pdb
+C:\Users\lukas\source\repos\Gestión de Productos – CRUD\obj\Debug\Gestión de Productos – CRUD.csproj.AssemblyReference.cache
+C:\Users\lukas\source\repos\Gestión de Productos – CRUD\obj\Debug\Gestión_de_Productos___CRUD.Form1.resources
+C:\Users\lukas\source\repos\Gestión de Productos – CRUD\obj\Debug\Gestión_de_Productos___CRUD.Properties.Resources.resources
+C:\Users\lukas\source\repos\Gestión de Productos – CRUD\obj\Debug\Gestión de Productos – CRUD.csproj.GenerateResource.cache
+C:\Users\lukas\source\repos\Gestión de Productos – CRUD\obj\Debug\Gestión de Productos – CRUD.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\Gestión de Productos – CRUD\obj\Debug\Gestión de Productos – CRUD.exe
+C:\Users\lukas\source\repos\Gestión de Productos – CRUD\obj\Debug\Gestión de Productos – CRUD.pdb
+C:\Users\lukas\source\repos\Gestión de Productos – CRUD\obj\Debug\Gestión de Productos – CRUD.exe.config
